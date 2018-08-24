@@ -1,7 +1,8 @@
 {
-  "name": "Event App",
+  "name": "event",
   "version": "0.1.0",
   "private": true,
+  "author": "Richard Rosario",
   "homepage" : "http://devjunction.net/Aretha/",
   "Git": "https://github.com/RichardRosario/Tribute-to-aretha-event-app.git",
   "dependencies": {
