@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "homepage" : "http://devjunction.net/Aretha/",
+  "Git": "https://github.com/RichardRosario/Tribute-to-aretha-event-app.git",
   "dependencies": {
     "@material-ui/core": "^1.5.1",
     "@material-ui/icons": "^2.0.3",
