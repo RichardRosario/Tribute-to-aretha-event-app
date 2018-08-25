@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Fade from 'react-reveal/Fade';
 import Slide from 'react-reveal/Slide';
+import MyButton from '../utils/MyButton';
 
 class Discount extends Component {
 
@@ -38,11 +39,19 @@ class Discount extends Component {
           </Fade>
           <Slide right>
           <div className="discount_description">
-            <h3>Purchase tickets before August 30, 2018</h3>
-            <p>Capacity at the MGA Grand is about 10,000.</p> 
-            <p>Tickets will be supplied in "digital mobile" form, meaning attendees will be emailed codes that then will be scanned from their cell phones at the MGM grand gates.</p>
+            <h3>Purchase tickets before August 30</h3>
+            <p>Lorem Ipsum. Capacity at the MGA Grand is about 10,000.</p> 
+            <p>Tickets will be supplied in "digital mobile" form, meaning attendees will be emailed codes that then will be scanned from their cell phones at the MGM grand gates. Lorem</p>
+            
+            <MyButton 
+              text="Purchase tickets"
+              bck="#ffa800" 
+              color="#fff" 
+              link="http://google.com" 
+              />
           </div>
-          <div>Button</div>
+ 
+            
           </Slide>
 
         </div>
